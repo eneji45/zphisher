@@ -92,7 +92,7 @@
 
 __version__="2.3.5"
 
- DEFAULT HOST & PORT
+## DEFAULT HOST & PORT
 HOST='0.0.0.0'
 PORT='80' 
 
